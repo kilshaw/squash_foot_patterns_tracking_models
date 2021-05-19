@@ -1,0 +1,77 @@
+#N canvas 115 142 1196 978 12;
+#X obj 30 700 ml.knn;
+#X text 30 15 K Nearest Neighbour;
+#X text 30 45 For more information on the technique used \, see: http://www.nickgillian.com/wiki/pmwiki.php/GRT/KNN
+;
+#X msg 180 105 add 1 0.2 0.7 0.3 0.1;
+#X text 490 105 list comprising a class id followed by n features \,
+<class> <feature 1> <feature 2> etc;
+#X msg 180 155 write /path/to/my_ml-lib_data;
+#X text 490 155 write training data and / or model \, first argument
+gives path to write file;
+#X msg 180 205 read /path/to/my_ml-lib_data;
+#X text 490 205 read training data and / or model \, first argument
+gives path to the read file;
+#X msg 180 255 train;
+#X text 490 255 train the model based on vectors added with 'add';
+#X msg 180 305 clear;
+#X text 490 305 clear the stored training data and model;
+#X msg 180 355 map 0.2 0.7 0.3 0.1;
+#X text 490 355 generate the output value(s) for the input feature
+vector;
+#X msg 180 405 help;
+#X text 490 405 post usage statement to the console;
+#X msg 180 455 scaling 1;
+#X text 490 455 sets whether values are automatically scaled;
+#X msg 180 505 training_rate 0.1;
+#X text 490 505 set the learning rate \, used to update the weights
+at each step of learning algorithms such as stochastic gradient descent.
+;
+#X msg 180 555 min_change 1e-05;
+#X text 490 555 set the minimum change that must be achieved between
+two training epochs for the training to continue;
+#X msg 180 605 max_iterations 100;
+#X text 490 605 set the maximum number of training iterations;
+#X msg 180 655 null_rejection_coeff 0.9;
+#X text 490 655 set a multiplier for the NULL-rejection threshold;
+#X msg 180 705 probs 0;
+#X text 490 705 determines whether probabilities are sent from the
+right outlet;
+#X msg 180 755 null_rejection 1;
+#X text 490 755 toggle NULL rejection off or on \, when 'on' classification
+results below the NULL-rejection threshold will be discarded;
+#X msg 180 805 k 10;
+#X text 490 805 sets the K nearest neighbours that will be searched
+for by the algorithm during prediction;
+#X msg 180 855 min_k_search_value 1;
+#X text 490 855 set the minimum K value to use when searching for the
+best K value;
+#X msg 180 905 max_k_search_value 10;
+#X text 490 905 set the maximum K value to use when searching for the
+best K value;
+#X msg 180 955 best_k_value_search 0;
+#X text 490 955 set whether k value search is enabled or not;
+#X obj 30 780 print left;
+#X obj 110 780 print right;
+#X msg 874 19 write ../Users/student/Desktop/traningdatah;
+#X msg 874 69 read ../Users/student/Desktop/traningdatah;
+#X connect 0 0 39 0;
+#X connect 0 1 40 0;
+#X connect 3 0 0 0;
+#X connect 5 0 0 0;
+#X connect 7 0 0 0;
+#X connect 9 0 0 0;
+#X connect 11 0 0 0;
+#X connect 13 0 0 0;
+#X connect 15 0 0 0;
+#X connect 17 0 0 0;
+#X connect 19 0 0 0;
+#X connect 21 0 0 0;
+#X connect 23 0 0 0;
+#X connect 25 0 0 0;
+#X connect 27 0 0 0;
+#X connect 29 0 0 0;
+#X connect 31 0 0 0;
+#X connect 33 0 0 0;
+#X connect 35 0 0 0;
+#X connect 37 0 0 0;
