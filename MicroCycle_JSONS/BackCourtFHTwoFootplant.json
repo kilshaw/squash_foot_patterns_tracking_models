@@ -1,0 +1,319 @@
+{
+  "header": {
+    "keySignatures": [
+      {
+        "key": "C",
+        "scale": "major",
+        "ticks": 0
+      }
+    ],
+    "meta": [
+      {
+        "text": "Marker ##",
+        "ticks": 108000,
+        "type": "marker"
+      }
+    ],
+    "name": "Back court Forehand two foot plant",
+    "ppq": 480,
+    "tempos": [
+      {
+        "bpm": 110,
+        "ticks": 0
+      }
+    ],
+      
+    "complexity": "14 tokens",  
+      
+      
+      
+    "timeSignatures": [
+      {
+        "ticks": 0,
+        "timeSignature": [
+          13,
+          8 
+        ],
+        "measures": 1 
+      }
+    ]
+  },
+    
+    
+    
+    
+     "audio":{
+  "theme": "https://youtu.be/AWrff1PZQRY",
+        "midi file": "https://github.com/kilshaw/squash_foot_patterns_tracking_models/blob/main/Squash%20ghosting%20microcycles%20in%20midi%20format/Back%20court%20FH%20two%20foot%20plant%20microcycle.mid",
+        "variation on a theme": "https://github.com/kilshaw/squash_foot_patterns_tracking_models/tree/main/Music%20compositions%20and%20sketches"
+    
+  },
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  "foot patterns": [
+    {
+      "channel": 0,
+      "controlChanges": {},
+      "pitchBends": [],
+      "instrument": {
+        "family": "piano",
+        "name": "acoustic grand piano",
+        "number": 0
+      },
+      "name": "split step",
+      "notes": [
+        {
+          "duration": 0.5,
+          "durationTicks": 480,
+          "midi": 81,
+          "name": "A5",
+          "ticks": 230400,
+          "time": 240,
+          "velocity": 0.25196850393700787
+        },
+        {
+          "duration": 0.5,
+          "durationTicks": 480,
+          "midi": 84,
+          "name": "C6",
+          "ticks": 230400,
+          "time": 240,
+          "velocity": 0.25196850393700787
+        },
+        {
+          "duration": 0.5,
+          "durationTicks": 480,
+          "midi": 81,
+          "name": "A5",
+          "ticks": 234654,
+          "time": 244.43125,
+          "velocity": 0.25196850393700787
+        },
+        {
+          "duration": 0.5,
+          "durationTicks": 480,
+          "midi": 84,
+          "name": "C6",
+          "ticks": 234654,
+          "time": 244.43125,
+          "velocity": 0.25196850393700787
+        }
+      ],
+      "endOfTrackTicks": 235134
+    },
+    {
+      "channel": 0,
+      "controlChanges": {},
+      "pitchBends": [],
+      "instrument": {
+        "family": "piano",
+        "name": "acoustic grand piano",
+        "number": 0
+      },
+      "name": "left out",
+      "notes": [
+        {
+          "duration": 0.5,
+          "durationTicks": 480,
+          "midi": 79,
+          "name": "G5",
+          "ticks": 231120,
+          "time": 240.75,
+          "velocity": 0.25196850393700787
+        }
+      ],
+      "endOfTrackTicks": 231600
+    },
+    {
+      "channel": 0,
+      "controlChanges": {},
+      "pitchBends": [],
+      "instrument": {
+        "family": "piano",
+        "name": "acoustic grand piano",
+        "number": 0
+      },
+      "name": "left return",
+      "notes": [
+        {
+          "duration": 0.5,
+          "durationTicks": 480,
+          "midi": 72,
+          "name": "C5",
+          "ticks": 233055,
+          "time": 242.765625,
+          "velocity": 0.31496062992125984
+        },
+        {
+          "duration": 0.5,
+          "durationTicks": 480,
+          "midi": 77,
+          "name": "F5",
+          "ticks": 233692,
+          "time": 243.42916666666667,
+          "velocity": 0.31496062992125984
+        }
+      ],
+      "endOfTrackTicks": 234172
+    },
+    {
+      "channel": 0,
+      "controlChanges": {},
+      "pitchBends": [],
+      "instrument": {
+        "family": "piano",
+        "name": "acoustic grand piano",
+        "number": 0
+      },
+      "name": "right out",
+      "notes": [
+        {
+          "duration": 0.5,
+          "durationTicks": 480,
+          "midi": 69,
+          "name": "A4",
+          "ticks": 230800,
+          "time": 240.41666666666666,
+          "velocity": 0.25196850393700787
+        },
+        {
+          "duration": 0.5,
+          "durationTicks": 480,
+          "midi": 60,
+          "name": "C4",
+          "ticks": 231600,
+          "time": 241.25,
+          "velocity": 0.25196850393700787
+        }
+      ],
+      "endOfTrackTicks": 232080
+    },
+    {
+      "channel": 0,
+      "controlChanges": {},
+      "pitchBends": [],
+      "instrument": {
+        "family": "piano",
+        "name": "acoustic grand piano",
+        "number": 0
+      },
+      "name": "right return",
+      "notes": [
+        {
+          "duration": 0.5,
+          "durationTicks": 480,
+          "midi": 67,
+          "name": "G4",
+          "ticks": 232680,
+          "time": 242.375,
+          "velocity": 0.25196850393700787
+        },
+        {
+          "duration": 0.5,
+          "durationTicks": 480,
+          "midi": 69,
+          "name": "A4",
+          "ticks": 233280,
+          "time": 243,
+          "velocity": 0.25196850393700787
+        },
+        {
+          "duration": 0.5,
+          "durationTicks": 480,
+          "midi": 65,
+          "name": "F4",
+          "ticks": 234180,
+          "time": 243.9375,
+          "velocity": 0.25196850393700787
+        }
+      ],
+      "endOfTrackTicks": 234660
+    },
+    {
+      "channel": 0,
+      "controlChanges": {},
+      "pitchBends": [],
+      "instrument": {
+        "family": "piano",
+        "name": "acoustic grand piano",
+        "number": 0
+      },
+      "name": "skip out",
+      "notes": [
+        {
+          "duration": 0.5,
+          "durationTicks": 480,
+          "midi": 72,
+          "name": "C5",
+          "ticks": 230640,
+          "time": 240.25,
+          "velocity": 0.25196850393700787
+        }
+      ],
+      "endOfTrackTicks": 231120
+    },
+    {
+      "channel": 0,
+      "controlChanges": {},
+      "pitchBends": [],
+      "instrument": {
+        "family": "piano",
+        "name": "acoustic grand piano",
+        "number": 0
+      },
+      "name": "skip in",
+      "notes": [
+        {
+          "duration": 0.5,
+          "durationTicks": 480,
+          "midi": 60,
+          "name": "C4",
+          "ticks": 232920,
+          "time": 242.625,
+          "velocity": 0.25196850393700787
+        }
+      ],
+      "endOfTrackTicks": 233400
+    },
+    {
+      "channel": 0,
+      "controlChanges": {},
+      "pitchBends": [],
+      "instrument": {
+        "family": "piano",
+        "name": "acoustic grand piano",
+        "number": 0
+      },
+      "name": "two footed plant",
+      "notes": [
+        {
+          "duration": 0.5,
+          "durationTicks": 480,
+          "midi": 77,
+          "name": "F5",
+          "ticks": 232052,
+          "time": 241.72083333333333,
+          "velocity": 0.25196850393700787
+        },
+        {
+          "duration": 0.5,
+          "durationTicks": 480,
+          "midi": 81,
+          "name": "A5",
+          "ticks": 232054,
+          "time": 241.72291666666666,
+          "velocity": 0.25196850393700787
+        }
+      ],
+      "endOfTrackTicks": 232534
+    }
+  ]
+}
