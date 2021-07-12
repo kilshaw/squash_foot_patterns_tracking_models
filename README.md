@@ -10,7 +10,7 @@ https://youtu.be/AWrff1PZQRY
 
 **Format**
 
-The models are a single averaged microcycle of a ghosting pattern and exist in json. format and as midi grooves. For pull requests use the The API endpoint locally for this project. (No hosting yet, besides it is not a restful API at the moment). Clone or download locally from this repository.
+The models are individual microcycles of each ghosting pattern and exist in json format, c_seq text (puredata) and midi clips/ grooves. For pull requests use the The API endpoint locally for this project. (No hosting yet, besides it is not a restful API at the moment). Clone or download locally from this repository.
 
 
 **Case Studies Elite Players:**
@@ -20,9 +20,9 @@ See here: https://youtu.be/U8mxNuTf1zw
 Tracking analysis and sonification of ghosting patterns of :
 
 Graham Ryding,
- Jessie Engelbrecht,
- Jethro Bins,
- Johnathan Power, 
+Jessie Engelbrecht,
+Jethro Bins,
+Johnathan Power, 
 Mathieu Castagnet, 
 Omar Mossaad, 
 Lee Birchill, 
