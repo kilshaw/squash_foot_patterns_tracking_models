@@ -32,12 +32,19 @@ These case studies form part of the research project that seeks to determine "A 
 
 Through precise tracking of step combinations, these vignettes explore the rhythmic and expressive attributes of learned  and deliberate foot patterns, observed and heard in squash player practicing or “ghosting” . 
 
-Through signification, these analyses can offer a heightened perception of a player’s pace, rhythm, timing,  flow and phrasing,  ornamentation and stylistic characteristic interpretations of different elite squash players. 
+Through sonification, these analyses can offer a heightened perception of a player’s pace, rhythm, timing,  flow and phrasing,  ornamentation and stylistic characteristic interpretations of different elite squash players. 
 
-**Soundfiles**
+**Development Soundfiles**
 
+Soundsfiles are in mp3 format. See sketches and vignettes.
 The sonified micro cycles are treated as individual sound objects or themes, from which variations are composed and through-composed.
-The computer music compositions make use of the following libraries: ml_lib for puredata,  tone.js, tensorflow and magenta, as well as the Open API muse project.
+The "Ghosting Latent Spaces" composition environment make use of the following libraries: ml_lib for puredata,  tone.js, tensorflow and magenta, misicvae.js, p5.js, tone.js as well as the Google.
 
-
-![image](https://user-images.githubusercontent.com/35170999/118810319-a60d4680-b8a3-11eb-9ca9-c1358aae9e63.png)
+**Schematic**
+to do
+**Latent Spaces**
+to do
+**Notation**
+to do
+**Compositions**
+to do
