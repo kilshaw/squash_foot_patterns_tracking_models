@@ -1,1 +1,11 @@
 Squash Ghosting Foot Patter Interactive Composition Environments.
+
+
+
+squash_ghosting_stylistic_transformers
+
+squash_ghosting_non_stop_primer
+
+Squash_steps_weighted_rnn
+
+Squash_latent_spaces
