@@ -1,4 +1,4 @@
-Squash Ghosting Foot Patter Interactive Composition Environments.
+Squash Ghosting Foot Pattern Interactive Composition Environments.
 
 
 
