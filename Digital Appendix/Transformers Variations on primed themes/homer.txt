@@ -1,12 +1,4 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf460
-{\fonttbl\f0\froman\fcharset0 Times-Roman;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red109\green109\blue109;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-\deftab720
-\pard\pardeftab720\sl280\partightenfactor0
-
-\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 Tell me, O muse, of that ingenious hero who travelled far and wide after\'a0he had sacked the famous town of Troy. Many cities did he visit, and many\'a0were the nations with whose manners and customs he was acquainted; moreover\'a0he suffered much by sea while trying to save his own life and bring his\'a0men safely home; but do what he might he could not save his men, for they\'a0perished through their own sheer folly in eating the cattle of the Sun-god\'a0Hyperion; so the god prevented them from ever reaching home. Tell me, too,\'a0about all these things, O daughter of Jove, from whatsoever source you\'a0may know them.\
+ Tell me, O muse, of that ingenious hero who travelled far and wide after\'a0he had sacked the famous town of Troy. Many cities did he visit, and many\'a0were the nations with whose manners and customs he was acquainted; moreover\'a0he suffered much by sea while trying to save his own life and bring his\'a0men safely home; but do what he might he could not save his men, for they\'a0perished through their own sheer folly in eating the cattle of the Sun-god\'a0Hyperion; so the god prevented them from ever reaching home. Tell me, too,\'a0about all these things, O daughter of Jove, from whatsoever source you\'a0may know them.\
 \
 So now all who escaped death in battle or by shipwreck had got\'a0safely home except Ulysses, and he, though he was longing to return to\'a0his wife and country, was detained by the goddess Calypso, who had got\'a0him into a large cave and wanted to marry him. But as years went by, there\'a0came a time when the gods settled that he should go back to Ithaca; even\'a0then, however, when he was among his own people, his troubles were not\'a0yet over; nevertheless all the gods had now begun to pity him except Neptune,\'a0who still persecuted him without ceasing and would not let him get\'a0home.\
 \
@@ -70,24 +62,3 @@ Then Eurymachus, son of Polybus, answered, "It rests with heaven\'a0to decide wh
 \
 The suitors then returned to their singing and dancing until the\'a0evening; but when night fell upon their pleasuring they went home to bed\'a0each in his own abode. Telemachus's room was high up in a tower that looked\'a0on to the outer court; hither, then, he hied, brooding and full of thought.\'a0A good old woman, Euryclea, daughter of Ops, the son of Pisenor, went before\'a0him with a couple of blazing torches. Laertes had bought her with his own\'a0money when she was quite young; he gave the worth of twenty oxen for her,\'a0and shewed as much respect to her in his household as he did to his own\'a0wedded wife, but he did not take her to his bed for he feared his wife's\'a0resentment. She it was who now lighted Telemachus to his room, and she\'a0loved him better than any of the other women in the house did, for she\'a0had nursed him when he was a baby. He opened the door of his bed room and\'a0sat down upon the bed; as he took off his shirt he gave it to the good\'a0old woman, who folded it tidily up, and hung it for him over a peg by his\'a0bed side, after which she went out, pulled the door to by a silver catch,\'a0and drew the bolt home by means of the strap. But Telemachus as he lay\'a0covered with a woollen fleece kept thinking all night through of his intended\'a0voyage of the counsel that Minerva had given him.\
 \
-
-\itap1\trowd \taflags0 \trgaph108\trleft-108 \trbrdrt\brdrnil \trbrdrl\brdrnil \trbrdrt\brdrnil \trbrdrr\brdrnil 
-\clvertalb \clshdrawnil \clwWidth700\clftsWidth3 \clmart150 \clmarl150 \clmarb150 \clmarr150 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx1728
-\clvertalb \clshdrawnil \clwWidth960\clftsWidth3 \clmart150 \clmarl150 \clmarb150 \clmarr150 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx3456
-\clvertalb \clshdrawnil \clwWidth560\clftsWidth3 \clmart150 \clmarl150 \clmarb150 \clmarr150 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx5184
-\clvertalb \clshdrawnil \clwWidth1240\clftsWidth3 \clmart150 \clmarl150 \clmarb150 \clmarr150 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx6912
-\clvertalb \clshdrawnil \clwWidth520\clftsWidth3 \clmart150 \clmarl150 \clmarb150 \clmarr150 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx8640
-\pard\intbl\itap1\pardeftab720\sl260\qc\partightenfactor0
-\cf2 \cell 
-\pard\intbl\itap1\pardeftab720\sl260\qc\partightenfactor0
-\cf2 \cell 
-\pard\intbl\itap1\pardeftab720\sl260\qc\partightenfactor0
-\cf2 \cell 
-\pard\intbl\itap1\pardeftab720\sl260\qc\partightenfactor0
-\cf2 \cell 
-\pard\intbl\itap1\pardeftab720\sl260\qc\partightenfactor0
-\cf2 \cell \lastrow\row
-\pard\pardeftab720\sl280\partightenfactor0
-\cf2 \
-\
-}
